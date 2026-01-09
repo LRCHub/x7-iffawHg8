@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ここから、ここから",
+  "base_artist": "玉木マリ(CV:水瀬いのり)、小淵沢報瀬(CV:花澤香菜)、 三宅日向(CV:井口裕香)、白石結月(CV:早見沙織)",
+  "createdAt": "2026-01-09T08:42:00.026717Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ここから、ここから(instrumemtal)",
+      "artist": "玉木マリ(CV:水瀬いのり)、小淵沢報瀬(CV:花澤香菜)、三宅日向(CV:井口裕香)、白石結月(CV:早見沙織)",
+      "has_synced": false,
+      "path": "select/01_ここから、ここから(instrumemtal)_玉木マリ(CV_水瀬いのり)、小淵沢報瀬(CV_花澤香菜)、三宅日向(CV_井口裕香)、白石結月(CV_早見沙織).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ここから、ここから",
+      "artist": "玉木マリ(CV:水瀬いのり)、小淵沢報瀬(CV:花澤香菜)、三宅日向(CV:井口裕香)、白石結月(CV:早見沙織)",
+      "has_synced": false,
+      "path": "select/02_ここから、ここから_玉木マリ(CV_水瀬いのり)、小淵沢報瀬(CV_花澤香菜)、三宅日向(CV_井口裕香)、白石結月(CV_早見沙織).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ここから、ここから",
+      "artist": "玉木マリ(CV:水瀬いのり)",
+      "has_synced": false,
+      "path": "select/03_ここから、ここから_玉木マリ(CV_水瀬いのり).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ここから、ここから",
+      "artist": "玉木マリ",
+      "has_synced": false,
+      "path": "select/04_ここから、ここから_玉木マリ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ここから、ここから (instrumental)",
+      "artist": "玉木マリ(CV:水瀬いのり)、小淵沢報瀬(CV:花澤香菜)、三宅日向(CV:井口裕香)、白石結月(CV:早見沙織)",
+      "has_synced": false,
+      "path": "select/05_ここから、ここから_(instrumental)_玉木マリ(CV_水瀬いのり)、小淵沢報瀬(CV_花澤香菜)、三宅日向(CV_井口裕香)、白石結月(CV_早見沙織).txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ここから、ここから (ソロver.)",
+      "artist": "玉木マリ(CV:水瀬いのり)、小淵沢報瀬(CV:花澤香菜)、三宅日向(CV:井口裕香)、白石結月(CV:早見沙織)",
+      "has_synced": false,
+      "path": "select/06_ここから、ここから_(ソロver.)_玉木マリ(CV_水瀬いのり)、小淵沢報瀬(CV_花澤香菜)、三宅日向(CV_井口裕香)、白石結月(CV_早見沙織).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ここから、ここから (instrumental)",
+      "artist": "花澤香菜",
+      "has_synced": false,
+      "path": "select/07_ここから、ここから_(instrumental)_花澤香菜.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ここから、ここから",
+      "artist": "玉木マリ (CV: 水瀬いのり); 小淵沢報瀬 (CV: 花澤香菜); 三宅日向 (CV: 井口裕香); 白石結月 (CV: 早見沙織)",
+      "has_synced": true,
+      "path": "select/08_ここから、ここから_玉木マリ_(CV__水瀬いのり);_小淵沢報瀬_(CV__花澤香菜);_三宅日向_(CV__井口裕香);_白石結月_(CV__早見沙織).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ここから、ここから",
+      "artist": "玉木マリ(水瀬いのり), 小淵沢報瀬(花澤香菜), 三宅日向(井口裕香), 白石結月(早見沙織)",
+      "has_synced": false,
+      "path": "select/pl_01_ここから、ここから_玉木マリ(水瀬いのり),_小淵沢報瀬(花澤香菜),_三宅日向(井口裕香),_白石結月(早見沙織).txt"
+    }
+  ]
+}
